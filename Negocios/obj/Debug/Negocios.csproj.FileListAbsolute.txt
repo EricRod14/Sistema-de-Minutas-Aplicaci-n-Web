@@ -1,0 +1,72 @@
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\obj\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\obj\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\obj\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\obj\Debug\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Negocios\obj\Debug\Negocios.pdb
+E:\ProyectoMinutas\Negocios\bin\Debug\Negocios.dll
+E:\ProyectoMinutas\Negocios\bin\Debug\Negocios.pdb
+E:\ProyectoMinutas\Negocios\bin\Debug\Datos.dll
+E:\ProyectoMinutas\Negocios\bin\Debug\Entidades.dll
+E:\ProyectoMinutas\Negocios\bin\Debug\StrDatosSQL.dll
+E:\ProyectoMinutas\Negocios\bin\Debug\Datos.pdb
+E:\ProyectoMinutas\Negocios\bin\Debug\Entidades.pdb
+E:\ProyectoMinutas\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\ProyectoMinutas\Negocios\obj\Debug\Negocios.dll
+E:\ProyectoMinutas\Negocios\obj\Debug\Negocios.pdb
+F:\ProyectoMinutas\Negocios\bin\Debug\Negocios.dll
+F:\ProyectoMinutas\Negocios\bin\Debug\Negocios.pdb
+F:\ProyectoMinutas\Negocios\bin\Debug\Datos.dll
+F:\ProyectoMinutas\Negocios\bin\Debug\Entidades.dll
+F:\ProyectoMinutas\Negocios\bin\Debug\StrDatosSQL.dll
+F:\ProyectoMinutas\Negocios\bin\Debug\Datos.pdb
+F:\ProyectoMinutas\Negocios\bin\Debug\Entidades.pdb
+F:\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+F:\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\ProyectoMinutas\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+F:\ProyectoMinutas\Negocios\obj\Debug\Negocios.dll
+F:\ProyectoMinutas\Negocios\obj\Debug\Negocios.pdb

@@ -1,0 +1,460 @@
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Presentacion.dll.config
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Presentacion\bin\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Presentacion.dll.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Presentacion.dll.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\csc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\csi.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Presentacion.dll.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Presentacion.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\csc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\csc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\csc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\csi.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\csi.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\csi.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Console.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\vbc.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\vbc.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\vbc.rsp
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Negocios.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\StrDatosSQL.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Negocios.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia - copia\Presentacion\obj\Debug\Presentacion.pdb
+E:\ProyectoMinutas\Presentacion\bin\Presentacion.dll.config
+E:\ProyectoMinutas\Presentacion\bin\Presentacion.dll
+E:\ProyectoMinutas\Presentacion\bin\Presentacion.pdb
+E:\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe
+E:\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe.config
+E:\ProyectoMinutas\Presentacion\bin\roslyn\csc.rsp
+E:\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe
+E:\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe.config
+E:\ProyectoMinutas\Presentacion\bin\roslyn\csi.rsp
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.AppContext.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Console.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe
+E:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe.config
+E:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.rsp
+E:\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\ProyectoMinutas\Presentacion\bin\Entidades.dll
+E:\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProyectoMinutas\Presentacion\bin\Negocios.dll
+E:\ProyectoMinutas\Presentacion\bin\StrDatosSQL.dll
+E:\ProyectoMinutas\Presentacion\bin\Entidades.pdb
+E:\ProyectoMinutas\Presentacion\bin\Negocios.pdb
+E:\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.dll
+E:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.pdb
+F:\ProyectoMinutas\Presentacion\bin\Presentacion.dll.config
+F:\ProyectoMinutas\Presentacion\bin\Presentacion.dll
+F:\ProyectoMinutas\Presentacion\bin\Presentacion.pdb
+F:\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe
+F:\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe.config
+F:\ProyectoMinutas\Presentacion\bin\roslyn\csc.rsp
+F:\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe
+F:\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe.config
+F:\ProyectoMinutas\Presentacion\bin\roslyn\csi.rsp
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.AppContext.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Console.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Http.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Sockets.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.ValueTuple.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe
+F:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe.config
+F:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.rsp
+F:\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe
+F:\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\ProyectoMinutas\Presentacion\bin\BouncyCastle.Crypto.dll
+F:\ProyectoMinutas\Presentacion\bin\Entidades.dll
+F:\ProyectoMinutas\Presentacion\bin\itextsharp.dll
+F:\ProyectoMinutas\Presentacion\bin\itextsharp.xmlworker.dll
+F:\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProyectoMinutas\Presentacion\bin\Negocios.dll
+F:\ProyectoMinutas\Presentacion\bin\StrDatosSQL.dll
+F:\ProyectoMinutas\Presentacion\bin\Datos.dll
+F:\ProyectoMinutas\Presentacion\bin\Entidades.pdb
+F:\ProyectoMinutas\Presentacion\bin\Negocios.pdb
+F:\ProyectoMinutas\Presentacion\bin\itextsharp.xml
+F:\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProyectoMinutas\Presentacion\bin\Datos.pdb
+F:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.dll
+F:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.pdb
+D:\ProyectoMinutas\Presentacion\bin\Presentacion.dll.config
+D:\ProyectoMinutas\Presentacion\bin\Presentacion.dll
+D:\ProyectoMinutas\Presentacion\bin\Presentacion.pdb
+D:\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe
+D:\ProyectoMinutas\Presentacion\bin\roslyn\csc.exe.config
+D:\ProyectoMinutas\Presentacion\bin\roslyn\csc.rsp
+D:\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe
+D:\ProyectoMinutas\Presentacion\bin\roslyn\csi.exe.config
+D:\ProyectoMinutas\Presentacion\bin\roslyn\csi.rsp
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectoMinutas\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.AppContext.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Console.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Http.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Net.Sockets.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.ValueTuple.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe
+D:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.exe.config
+D:\ProyectoMinutas\Presentacion\bin\roslyn\vbc.rsp
+D:\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe
+D:\ProyectoMinutas\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectoMinutas\Presentacion\bin\BouncyCastle.Crypto.dll
+D:\ProyectoMinutas\Presentacion\bin\Datos.dll
+D:\ProyectoMinutas\Presentacion\bin\Entidades.dll
+D:\ProyectoMinutas\Presentacion\bin\itextsharp.dll
+D:\ProyectoMinutas\Presentacion\bin\itextsharp.xmlworker.dll
+D:\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectoMinutas\Presentacion\bin\Negocios.dll
+D:\ProyectoMinutas\Presentacion\bin\StrDatosSQL.dll
+D:\ProyectoMinutas\Presentacion\bin\Datos.pdb
+D:\ProyectoMinutas\Presentacion\bin\Entidades.pdb
+D:\ProyectoMinutas\Presentacion\bin\Negocios.pdb
+D:\ProyectoMinutas\Presentacion\bin\itextsharp.xml
+D:\ProyectoMinutas\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.dll
+D:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.pdb
+F:\ProyectoMinutas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache

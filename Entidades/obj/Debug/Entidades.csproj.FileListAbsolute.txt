@@ -1,0 +1,30 @@
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Entidades\bin\Debug\Entidades.pdb
+E:\ProyectoMinutas\Entidades\bin\Debug\Entidades.dll
+E:\ProyectoMinutas\Entidades\bin\Debug\Entidades.pdb
+E:\ProyectoMinutas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\ProyectoMinutas\Entidades\obj\Debug\Entidades.dll
+E:\ProyectoMinutas\Entidades\obj\Debug\Entidades.pdb
+F:\ProyectoMinutas\Entidades\bin\Debug\Entidades.dll
+F:\ProyectoMinutas\Entidades\bin\Debug\Entidades.pdb
+F:\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\ProyectoMinutas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\ProyectoMinutas\Entidades\obj\Debug\Entidades.dll
+F:\ProyectoMinutas\Entidades\obj\Debug\Entidades.pdb

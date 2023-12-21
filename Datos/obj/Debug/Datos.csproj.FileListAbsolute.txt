@@ -1,0 +1,45 @@
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\obj\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\PROYECTO AMBIENTES\ProyectoMinutas\Datos\obj\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\obj\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas\Datos\obj\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\bin\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\bin\Debug\Entidades.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\bin\Debug\Entidades.pdb
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\obj\Debug\Datos.dll
+C:\Users\Eric Rodriguez\Documents\Desktop\ProyectoMinutas - copia\Datos\obj\Debug\Datos.pdb
+E:\ProyectoMinutas\Datos\bin\Debug\Datos.dll
+E:\ProyectoMinutas\Datos\bin\Debug\Datos.pdb
+E:\ProyectoMinutas\Datos\bin\Debug\Entidades.dll
+E:\ProyectoMinutas\Datos\bin\Debug\Entidades.pdb
+E:\ProyectoMinutas\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\ProyectoMinutas\Datos\obj\Debug\Datos.dll
+E:\ProyectoMinutas\Datos\obj\Debug\Datos.pdb
+F:\ProyectoMinutas\Datos\bin\Debug\Datos.dll
+F:\ProyectoMinutas\Datos\bin\Debug\Datos.pdb
+F:\ProyectoMinutas\Datos\bin\Debug\Entidades.dll
+F:\ProyectoMinutas\Datos\bin\Debug\Entidades.pdb
+F:\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+F:\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\ProyectoMinutas\Datos\obj\Debug\Datos.csproj.CopyComplete
+F:\ProyectoMinutas\Datos\obj\Debug\Datos.dll
+F:\ProyectoMinutas\Datos\obj\Debug\Datos.pdb
